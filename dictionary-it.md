@@ -1,4 +1,4 @@
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+| Center-aligned | Right-aligned |
+|     :---:      |     :---:     |
+| git status     | git status fgdf fgsdfgsd gsdfgs s sfgsdf sdfgss srgsdf   |
+| git diff       | git diff      |
